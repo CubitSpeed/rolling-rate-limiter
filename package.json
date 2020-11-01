@@ -38,7 +38,7 @@
   },
   "homepage": "https://github.com/peterkhayes/rolling-rate-limiter",
   "dependencies": {
-    "microtime-nodejs": "~1.0.0",
+    "@limeandcoconut/microtime-x": "^1.0.0",
     "uuid": "^8.3.0"
   },
   "devDependencies": {
